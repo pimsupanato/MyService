@@ -6,7 +6,7 @@
     <ImageView
         android:src="@drawable/my_image"
         android:layout_centerInParent="true"
-        android:layout_width="100pt"
+        android:layout_width="@dimen/IMGSize100"
         android:layout_height="wrap_content" />
 
 
